@@ -145,11 +145,11 @@ After we created a user, we can now add a new post because this is a SQlite rela
 ```
 
 
-### if request.method == "GET":
+### ```python if  request.method == "GET": ```
 
 it will return the form to create new user
 
-### if request.method == "POST":
+### ```python if request.method == "POST": ```
 
 The function will get the values from the provided form and make sure the values are locked in 
  ```[% s'% value name]```
