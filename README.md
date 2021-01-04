@@ -12,11 +12,11 @@ edit html and some kinds of python after reading the post and watching the video
 
 
 ## some_notes
-2. First we need to install all packages and make sure pip3 is installed using this command `sudo apt-get install python3-pip` then you can use pip3 install package name
-3. install all package sqlalchemy, flask, requests sqlalchemy.orm, 
-4. do not install database_setup it's the database file with name database_setup.py we use it to get the tables from it
-5. For any import error, use the pip3 install package name in gitbash then run the application again and make sure pip3 
-is installed and run the application with the command python3 __init __. py`, if you are using pip2, use python` __init __. Instead of that<br />
+1. First we need to install all packages and make sure pip3 is installed using this command `sudo apt-get install python3-pip` then you can use pip3 install package name
+2. install all package sqlalchemy, flask, requests sqlalchemy.orm, 
+3. do not install database_setup it's the database file with name database_setup.py we use it to get the tables from it
+4. For any import error, use the pip3 install package name in gitbash then run the application again and make sure pip3 
+5. installed and run the application with the command python3 __init __. py`, if you are using pip2, use python` __init __. Instead of that<br />
 6.the database contains 3 classes that work as tables in the database
 
 
